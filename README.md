@@ -37,7 +37,8 @@
 ### C. Overall Test Report Image
 
 ![gambar](https://github.com/WahidAzis/ALTA_QE11_Team4_TODOIST/assets/124779557/af2dc26f-c768-4d12-bd2d-f5b3c6dd2a37)
-![Uploading gambar.png…]()
+
+![photo_6163245389810087824_w](https://github.com/WahidAzis/ALTA_QE11_Team4_TODOIST/assets/124779557/ae5d770e-3e12-46d6-b00c-f9f26202df90)
 
 
 ### D. Coverage of Each Feature
