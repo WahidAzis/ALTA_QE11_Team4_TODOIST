@@ -1,5 +1,42 @@
-# GroupProject-QE11-team4 Alterra Academy
-### API manual and automation testing for web https://developer.todoist.com/rest/v2
+<div align="center">
+  <a href="">
+    <img src="./todoist-logo.png" width="144" height="144">
+  </a>
+
+  <p align="center">
+    API Testing with RestAssured and SerenityBDD
+    <br />
+    <a href="https://developer.todoist.com/"><strong>| TODOIST |</strong></a>
+    <br />
+    <br />
+  </p>
+</div>
+
+## 📑 About the Project
+<p align="justify">Welcome to our API Testing repository. Originally as a Group Project by Team 4 Altera Academy, our repository can be purposed as boilerplate too. Happy cracking then! </p>
+API Manual and Automation testing for web https://developer.todoist.com/rest/v2.
+
+## 🛠 Tools
+
+**Automation :**
+
+![IntellijIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/-rest%20assured-000000?style=for-the-badge&logo=rest-assured&logoColor=black)
+![Serenity](https://img.shields.io/badge/-serenity-16a67a?style=for-the-badge&logo=serenity&logoColor=black)
+![Cucumber](https://img.shields.io/badge/-cucumber-4bc47b?style=for-the-badge&logo=cucumber&logoColor=black)
+
+**Test Case Management:**  
+
+[![Google Sheets](https://img.shields.io/badge/-Google%20sheets-4bc47b?style=for-the-badge&logoColor=black)](https://img.shields.io/badge/-Google%20sheets-4bc47b?style=for-the-badge&logoColor=black)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://dark-firefly-199048.postman.co/workspace/%255BTeam-4---Group-Project%255D-Manual~c680323a-b1cc-4ce2-a0b1-b6327ba16504/environment/26235971-3a1be08f-a1d1-4b77-83cf-11fcfa4c7d40)
+
+**Communication:**  
+
+[![GitHub](https://img.shields.io/badge/github%20Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WahidAzis/ALTA_QE11_Team4_TODOIST)
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/b/2ArZn5iN/manual-and-automation-testing-api-todoistalta-qa-11)
+
 #
 ### A. Project Description
     > Project Goal:
@@ -30,32 +67,21 @@
       b. Generate comprehensive reports summarizing the testing activities, results, and recommendations 
          for improvements.
 
-### B. Manual Test Case Link
-    > Spreadsheet   : https://docs.google.com/spreadsheets/d/1NyqWhyEfIDjj3e7jUN9DF3QnXbVBK04FnvXPiQZfW-4/edit?usp=sharing
-    > Postman       : https://dark-firefly-199048.postman.co/workspace/%255BTeam-4---Group-Project%255D-Manual~c680323a-b1cc-4ce2-a0b1-b6327ba16504/environment/26235971-3a1be08f-a1d1-4b77-83cf-11fcfa4c7d40
-
-### C. Overall Test Report Image
+### B. Overall Test Report Image
 
 ![gambar](https://github.com/WahidAzis/ALTA_QE11_Team4_TODOIST/assets/124779557/af2dc26f-c768-4d12-bd2d-f5b3c6dd2a37)
 
 ![photo_6163245389810087824_w](https://github.com/WahidAzis/ALTA_QE11_Team4_TODOIST/assets/124779557/ae5d770e-3e12-46d6-b00c-f9f26202df90)
 
 
-### D. Coverage of Each Feature
+### C. Coverage of Each Feature
     > Projects   : 93 % covered to automation
     > Sections   : 100 % covered to automation
     > Tasks      : 88 % covered to automation
     > Comments   : 85 % covered to automation
     > Labels     : 100 % covered to automation
 
-### E. Tools & Technology Stack
-    > Java
-    > Serenity BDD
-    > Rest Assured
-    > Cucumber
-    > Postman
-
-### F. How To Run Project
+### D. 🏎️ How to Run all Test Scenarios
     > Manual Testing using Postman:
       a. Add new request
       b. Choose method
@@ -70,8 +96,14 @@
          or:
       a. You can click run from CucumberTestSuite
 
-### G. Team Member
-    > Wahid A. Azis              =>  Tasks & Labels
-    > Rolando Tigor              =>  Sections & Labels
-    > Arum Puspa Khinanthi       =>  Projects & Comments
+### F. 📱 Team-4
+
+  ![LinkedIn](https://img.shields.io/badge/-Arum%20Puspa-white?style=for-the-badge&logo=linkedin&logoColor=blue)
+  [![GitHub](https://img.shields.io/badge/-ArumCute-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/arumcute)
+
+  ![LinkedIn](https://img.shields.io/badge/-Rolando%20Tigor%20Sihombing-white?style=for-the-badge&logo=linkedin&logoColor=blue)
+  [![GitHub](https://img.shields.io/badge/-RolandoTigor-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tigorrr4)
+  
+  ![LinkedIn](https://img.shields.io/badge/-Wahid%20Abdul%20Azis-white?style=for-the-badge&logo=linkedin&logoColor=blue)
+  [![GitHub](https://img.shields.io/badge/-WahidAzis-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/WahidAzis)
 
