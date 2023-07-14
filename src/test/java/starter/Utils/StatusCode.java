@@ -1,11 +1,8 @@
 package starter.Utils;
-
-
 import io.cucumber.java.en.Then;
 import net.serenitybdd.rest.SerenityRest;
 
 public class StatusCode {
-
     @Then("Status code should be {int} OK")
     public void statusCodeShouldBeOK(int OK) {SerenityRest.then().statusCode(OK);}
 
@@ -23,5 +20,4 @@ public class StatusCode {
     public void statusCodeIsNoContent(int NoContent) {
         SerenityRest.then().statusCode(NoContent);
     }
-
 }
