@@ -40,11 +40,11 @@
 
 
 ### D. Coverage of Each Feature
-    > Projects   : % covered to automation
-    > Sections   : % covered to automation
-    > Tasks      : % covered to automation
-    > Comments   : % covered to automation
-    > Labels     : % covered to automation
+    > Projects   : 93 % covered to automation
+    > Sections   : 100 % covered to automation
+    > Tasks      : 88 % covered to automation
+    > Comments   : 85 % covered to automation
+    > Labels     : 100 % covered to automation
 
 ### E. Tools & Technology Stack
     > Java
