@@ -12,10 +12,10 @@ public class Constants {
     public static String JSON_SCHEMA_COMMENTS = JSON+"/JSONSchema/Comments";
     public static String JSON_SCHEMA_PROJECT = JSON+"/JSONSchema/Projects";
     public static String JSON_SCHEMA_SECTIONS= JSON+"/JSONSchema/Sections";
+
     public static String JSON_SCHEMA_TASKS= JSON+"/JSONSchema/Tasks";
     public static String JSON_SCHEMA_LABELS= JSON+"/JSONSchema/Labels";
     public static final String BEARER_TOKEN = "e40c4b40ecc38b2e457f7ff42d51d1db2df8f1cc";
     public static final String URL = "https://api.todoist.com";
-   
 
 }

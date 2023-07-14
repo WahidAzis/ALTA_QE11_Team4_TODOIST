@@ -19,5 +19,6 @@ public class StatusCode {
     @Then("Status code is {int} No Content")
     public void statusCodeIsNoContent(int NoContent) {
         SerenityRest.then().statusCode(NoContent);
+
     }
 }
